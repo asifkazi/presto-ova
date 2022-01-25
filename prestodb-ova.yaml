@@ -6,7 +6,7 @@ revision: '0'
 kind: ova
 image:
   url: https://ahana-labs.s3.us-east-1.amazonaws.com/ova/PrestoCentOS.ova
-  sha256: 3a57da82f70eacfe0c4708000296ced104b85ed0bc8ecd67f9cbf061998cb4a2
+  sha256: 64f019fa25a24aa4314594e02f6023aacd6707eafc36d3872f86185eec7e8361
 eula_url: https://www.apache.org/licenses/LICENSE-2.0.txt
 eula_label: Apache 2.0
 categories:
