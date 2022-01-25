@@ -1,0 +1,25 @@
+---
+app_id: prestodb
+title: prestodb
+version: 0.258.0
+revision: '0'
+kind: ova
+image:
+  url: https://ahana-labs.s3.us-east-1.amazonaws.com/ova/PrestoCentOS.ova
+  sha256: 3a57da82f70eacfe0c4708000296ced104b85ed0bc8ecd67f9cbf061998cb4a2
+eula_url: https://www.apache.org/licenses/LICENSE-2.0.txt
+eula_label: Apache 2.0
+categories:
+- network
+- target_vcenter
+logo: https://prestodb.io/static/presto-og.png  
+description: Presto DB OVA with .268 version of presto
+readme: |
+  ##  Open Souce PrestoDB 0.268
+links:
+- id: docs_index
+  title: Getting Started
+  url: https://prestodb.io
+- id: support_index
+  title: Presto Support
+  url: https://prestodb.io/community.html
